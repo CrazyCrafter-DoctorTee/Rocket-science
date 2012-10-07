@@ -1,6 +1,18 @@
 *.class
-
-# Package Files #
+Minecraft/bin/*
+Minecraft/src/* 
+Minecraft/common/net/* 
+Minecraft/common/org/*
+Minecraft/common/cpw/*
+Minecraft/common/ic2/*
+Minecraft/common/ibxm/*
+*/.settings/*
 *.jar
-*.war
-*.ear
+*.bat
+*~*
+forge_logo.png
+*.cfg
+*.properties
+*.classpath
+*.project
+*/rocketScience/*
